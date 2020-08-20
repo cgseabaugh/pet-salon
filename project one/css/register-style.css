@@ -1,0 +1,147 @@
+
+body{
+    background-image: url("https://c.pxhere.com/images/c2/53/93b12435be26834e4c5e0c30c8d0-1445111.jpg!d");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title{
+    margin-left: auto;
+    margin-right: auto;
+    width: 32rem;
+    color: rgb(171, 0, 194);
+    margin-top: 0;
+    font-size: 4rem;
+    text-align: center;
+    border-bottom: 2px solid rgb(82, 221, 214);
+}
+
+#main{
+    background-color: rgba(255, 255, 255, 0.66);
+    width: 60rem;
+    height: 32rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2rem;
+}
+
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(82, 221, 214);
+    text-align: center;
+    height: 2rem;
+    width: 60rem;
+}
+
+.menu a{
+    color: white;
+    font-weight: 550;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.borderTrue{
+    border-right: 3px solid white;
+}
+
+footer{
+    padding: 1rem;
+    color: white;
+    width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(82, 221, 214);
+}
+
+form{
+    background-color: rgba(255, 255, 255, 0.75);
+    width: 20rem;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: right;
+    margin-left: 50%;
+}
+
+.form-bg{
+    background-image: url("https://pamperedpetsparlor.com/wp-content/uploads/b2b/stock/v2/bigstock/tabby-kitten-relaxing-on-carpe-50704334.jpg?w=1060&h=440&a=t");
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-radius: 5px;
+    width: 50rem
+}
+
+form label{
+    color: black;
+}
+
+#pets{
+    
+}
+img{
+    max-width: 100%;
+}
+.pet{
+   
+}
+
+#gender-input{
+    display: inline-flex;
+}
+
+h2{
+    
+}
+
+p{
+    color: white;
+}
+
+
+
+table{
+   background-color: rgba(255, 255, 255, 0.5);
+   font-size: 1.5rem;
+   padding-left: 1rem;
+   padding-right: 1rem;
+   border-radius: 5px;
+   margin-left: auto;
+   margin-right: auto;
+   color: white;
+   background-color: rgb(82, 221, 214);
+}
+th{
+   padding-left: 1rem;
+   padding-right: 1rem;
+}
+thead{
+}
+tbody{
+    background-color: rgba(255, 255, 255);
+    color: black;
+    padding-bottom: 1rem;
+}
+td{
+    padding: .2rem;
+}
+
+.container-search{
+    margin-left: 8%;
+}
+
+.logo{
+    width: 20rem;
+    height: 12rem;
+    margin-left: 40%;
+    margin-right: auto;   
+}
+
+.active{
+    background-color: rgb(52, 129, 125);
+    color: white;
+}
